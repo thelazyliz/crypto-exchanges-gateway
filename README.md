@@ -28,7 +28,7 @@ There is no monthly fee. It's free since you will be the one running the service
 
 This is a self-hosted service. You need to install it on your own server
 
-* I saw you are accepting donations. What extra service will I get for a donation ?
+* I saw you are accepting donations. What extra services will I get for a donation ?
 
 Besides the privilege to go to bed, knowing that you did the right thing ? Not much
 
