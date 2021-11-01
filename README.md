@@ -346,6 +346,6 @@ This project is a work in progress. If you find it useful, you might consider a 
 
 BTC: `163Bu8qMSDoHc1sCatcnyZcpm38Z6PWf6E`
 
-ETH: `0xDEBBEEB9624449D7f2c87497F21722b1731D42a8`
+ETH: `0x2CbC0e01aB54b1f440A7D62e554ad532F7716d4C`
 
 NEO/GAS: `AaQ5xJt4v8GunVchTJXur8WtM8ksprnxRZ`
