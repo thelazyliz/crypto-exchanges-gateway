@@ -40,7 +40,7 @@ Besides the privilege to go to bed, knowing that you did the right thing ? Not m
 * Provides a REST API to send push notifications using [PushOver](https://pushover.net/api)
 * Provides a basic UI which implements most API calls (see [documentation in _doc_ directory](doc/ui/index.adoc))
 * Provides WS access for real-time data (tickers, order books & trades, see [documentation in _doc_ directory](doc/ws/index.adoc) and [video](https://youtu.be/_LfLLT693AM) explaining how to create custom WS streams to multiplex data from multiple exchanges)
-* Access to a portfolio portfolio overview across all exchanges with estimated value in USD
+* Access to a portfolio overview across all exchanges with estimated value in USD
 * Advanced alerting system
 
 <img src="doc/ui/img/tickers.png" width="400"/>
