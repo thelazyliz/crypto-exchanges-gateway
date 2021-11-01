@@ -182,3 +182,8 @@
 * Bittrex module changed from _node.bittrex.api_ to _node-bittrex-api_ module (version 0.7.6)
 * Poloniex module updated to version 1.6.2
 * Minor UI navigation changes
+
+## [v1.1]
+* Fix authentication using _ApiKey_ header
+* Support for Binance recvWindow parameter in config.json (to account for clock skew)
+* Bittrex module changed from _node.bittrex.api_ to _node-bittrex-api_ module (version 0.7.6)
